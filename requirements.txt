@@ -4,3 +4,4 @@ pydantic>=2.6.1
 python-dotenv>=1.0.0
 httpx>=0.26.0
 python-multipart>=0.0.9 
+arcadepy>=1.7.0

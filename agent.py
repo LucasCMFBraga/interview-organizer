@@ -3,7 +3,7 @@ from arcadepy import Arcade
 from pydantic import BaseModel
 from typing import List, Optional
 
-API_KEY = "arc_o1H5gTWiWDvuXnMScHmAKPpa5aZJPu3PGisCpSSRuq5ca56oVpVJ"
+API_KEY = "arc_o179fQfXwKEj1ZRCxkX7Gp2W8PnivedMfkXg2QajL382Ya6W4QrB"
 USER_ID = "nithishkumar3210@gmail.com"
 
 client = Arcade(
